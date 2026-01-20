@@ -443,8 +443,9 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 This work has been presented at:
 
 **IEEE Consumer Communications & Networking Conference (CCNC) 2024**
-- Title: *LoRa-Based Image Transmission System*
+- Title: *Image Transmission over LoRa-Based Networks: A Performance Study Using Image Compression and Reconstruction Methods*
 - DOI: [10.1109/CCNC51644.2024.10472832](https://ieeexplore.ieee.org/document/10472832)
+- Full Paper: [IEEE Xplore](https://ieeexplore.ieee.org/document/10472832)
 
 ## 👩‍💻 Author
 
