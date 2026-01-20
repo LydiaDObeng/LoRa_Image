@@ -74,10 +74,8 @@ try:
 except KeyboardInterrupt:
     sys.stdout.flush()
     sys.stderr.write("KeyboardInterrupt\n")
-  #print the transmitted values on the console and terminate the program using a keyboard interrupt
- finally:
-     sys.stdout.flush()
-     lora.set_mode(MODE.SLEEP)
-     BOARD.teardown()
-
-  
+    #print the transmitted values on the console and terminate the program using a keyboard interrupt
+finally:
+    sys.stdout.flush()
+    lora.set_mode(MODE.SLEEP)
+    BOARD.teardown()
