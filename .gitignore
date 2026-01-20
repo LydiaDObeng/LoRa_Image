@@ -37,24 +37,19 @@ env/
 # Jupyter Notebooks
 .ipynb_checkpoints
 
-# Images (except sample)
+# Images - Block all except samples
 *.jpg
 *.jpeg
 *.png
 *.gif
 *.bmp
-!Image1.jpg
-!sample*.jpg
 
-# Received images
-Received*.jpg
-ReceivedJ*.jpg
-
-# Logs
-*.log
-
-# Raspberry Pi specific
-*.pyc
+# EXCEPT - Allow these specific sample images
+!Image_Transmission_LoRa/Image1.jpg
+!Image_Transmission_LoRa/pics/Image1.jpg
+!Image_Transmission_LoRa/ReceivedJ1.jpg
+!docs/images/*.jpg
+!docs/images/*.png
 
 # Backup files
 *.bak
