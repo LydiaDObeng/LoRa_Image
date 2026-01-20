@@ -444,8 +444,8 @@ This work has been presented at:
 
 **IEEE Consumer Communications & Networking Conference (CCNC) 2024**
 - Title: *Image Transmission over LoRa-Based Networks: A Performance Study Using Image Compression and Reconstruction Methods*
-- DOI: [10.1109/CCNC51644.2024.10472832](https://ieeexplore.ieee.org/document/10472832)
-- Full Paper: [IEEE Xplore](https://ieeexplore.ieee.org/document/10472832)
+- DOI: [10.1109/CCNC51664.2024.10454687](https://ieeexplore.ieee.org/abstract/document/10454687)
+- Full Paper: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10454687)
 
 ## 👩‍💻 Author
 
