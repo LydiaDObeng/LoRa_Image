@@ -4,19 +4,19 @@ A Python-based implementation for transmitting images wirelessly using LoRa SX12
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Hardware Requirements](#hardware-requirements)
-- [Software Requirements](#software-requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Performance Metrics](#performance-metrics)
-- [Configuration](#configuration)
-- [Project Structure](#project-structure)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Publications](#publications)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Hardware Requirements](#-hardware-requirements)
+- [Software Requirements](#-software-requirements)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Performance Metrics](#-performance-metrics)
+- [Configuration](#-configuration)
+- [Project Structure](#-project-structure)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Publications](#-publications)
 
 ## 🎯 Overview
 
